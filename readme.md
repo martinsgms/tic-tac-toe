@@ -9,5 +9,7 @@ Escrito puramente com HTML, CSS e JS. Nada complexo.
 
 # Screenshots
 
-![Desktop](https://github.com/martinsgms/tic-tac-toe/blob/master/screenshots/desktop.png?raw=true)
-![Mobile](https://github.com/martinsgms/tic-tac-toe/blob/master/screenshots/mobile.jpeg?raw=true)
+<p float="left">
+  <img src="https://github.com/martinsgms/tic-tac-toe/blob/master/screenshots/desktop.png?raw=true" width="300" height="300">
+  <img src="https://github.com/martinsgms/tic-tac-toe/blob/master/screenshots/mobile.jpeg?raw=true" width="200" height="400">
+</p>
