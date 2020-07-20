@@ -9,5 +9,5 @@ Escrito puramente com HTML, CSS e JS. Nada complexo.
 
 # Screenshots
 
-![Desktop](https://github.com/martinsgms/tic-tac-toe/screenshots/master/desktop.png?raw=true)
-![Mobile](https://github.com/martinsgms/tic-tac-toe/screenshots/master/mobile.jpg?raw=true)
+![Desktop](https://github.com/martinsgms/tic-tac-toe/blob/master/screenshots/desktop.png?raw=true)
+![Mobile](https://github.com/martinsgms/tic-tac-toe/blob/master/screenshots/mobile.jpg?raw=true)
